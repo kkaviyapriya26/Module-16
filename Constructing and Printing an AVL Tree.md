@@ -39,8 +39,10 @@ def Construct_AVL(L):
 ```
 
 ## OUTPUT
-```
-<img width="1645" height="165" alt="image" src="https://github.com/user-attachments/assets/0ae5ab5d-ce99-42b3-92d4-43b5fdef20c4" />
-```
+
+
+<img width="1645" height="165" alt="image" src="https://github.com/user-attachments/assets/c7f100fd-bd7f-446f-a1f8-0c514f676422" />
+
+
 ## RESULT
 Thus the program to construct an AVL tree and print the nodes of it has been implemented and executed successfully.
